@@ -1,0 +1,218 @@
+{
+  "movies": [
+    {
+      "title": "The Favourite",
+      "year": "2018",
+      "duration": "2 hours",
+      "synopsis": "It’s fun to be Queen sometimes. England, early 18th century. The close relationship between Queen Anne and Sarah Churchill is threatened by the arrival of Sarah’s cousin, Abigail Hill, resulting in a bitter rivalry between the two cousins to be the Queen’s favourite.",
+      "director": "Yorgos Lanthimos",
+      "poster": "res/MoviePosters/The Favourite (2018).jpeg",
+      "price": "₱400",
+      "cinema": "Cinema 1",
+      "genre": [],
+      "timeSlot": [
+        "08:00 AM"
+      ]
+    },
+    {
+      "title": "Everything Everywhere All at Once",
+      "year": "2022",
+      "duration": "2 hours 19 minutes",
+      "synopsis": "The universe is so much bigger than you realize. An aging Chinese immigrant is swept up in an insane adventure, where she alone can save what’s important to her by connecting with the lives she could have led in other universes.",
+      "director": "Daniel Scheinert, Daniel Kwan",
+      "poster": "res/MoviePosters/Everything Everywhere All at Once (2022).png",
+      "price": "₱320",
+      "cinema": "Cinema 1",
+      "genre": [],
+      "timeSlot": [
+        "02:30 PM"
+      ]
+    },
+    {
+      "title": "Interstellar",
+      "year": "2014",
+      "duration": "2 hours 49 minutes",
+      "synopsis": "Mankind was born on Earth. It was never meant to die here. The adventures of a group of explorers who make use of a newly discovered wormhole to surpass the limitations on human space travel and conquer the vast distances involved in an interstellar voyage.",
+      "director": "Christopher Nolan",
+      "poster": "res/MoviePosters/Interstellar (2014).jpeg",
+      "price": "₱320",
+      "cinema": "Cinema 3",
+      "genre": [],
+      "timeSlot": [
+        "08:00 AM"
+      ]
+    },
+    {
+      "title": "Eternal Sunshine of the Spotless Mind",
+      "year": "2004",
+      "duration": "1 hour 48 minutes",
+      "synopsis": "You can erase someone from your mind. Getting them out of your heart is another story. Joel Barish, heartbroken that his girlfriend underwent a procedure to erase him from her memory, decides to do the same. However, as he watches his memories of her fade away, he realises that he still loves her, and may be too late to correct his mistake.",
+      "director": "Michel Gondry",
+      "poster": "res/MoviePosters/Eternal Sunshine of the Spotless Mind (2004).png",
+      "price": "₱280",
+      "cinema": "Cinema 2",
+      "genre": [],
+      "timeSlot": [
+        "10:30 AM"
+      ]
+    },
+    {
+      "title": "Portrait of a Lady on Fire",
+      "year": "2019",
+      "duration": "2 hours 1 minute",
+      "synopsis": "Don’t regret. Remember. On an isolated island in Brittany at the end of the eighteenth century, a female painter is obliged to paint a wedding portrait of a young woman.",
+      "director": "Céline Sciamma",
+      "poster": "res/MoviePosters/Portrait of a Lady on Fire (2019).jpg",
+      "price": "₱320",
+      "cinema": "Cinema 4",
+      "genre": [],
+      "timeSlot": [
+        "11:00 AM"
+      ]
+    },
+    {
+      "title": "Little Women",
+      "year": "2019",
+      "duration": "2 hours 15 minutes",
+      "synopsis": "Own your story. Four sisters come of age in America in the aftermath of the Civil War.",
+      "director": "Greta Gerwig",
+      "poster": "res/MoviePosters/Little Women(2019).jpg",
+      "price": "₱320",
+      "cinema": "Cinema 1",
+      "genre": [
+        "Romance",
+        "Drama"
+      ],
+      "timeSlot": [
+        "08:30 PM"
+      ]
+    },
+    {
+      "title": "Gone Girl",
+      "year": "2014",
+      "duration": "2 hours 29 minutes",
+      "synopsis": "You don’t know what you’ve got ’til it’s… With his wife’s disappearance having become the focus of an intense media circus, a man sees the spotlight turned on him when it’s suspected that he may not be innocent.",
+      "director": "David Fincher",
+      "poster": "res/MoviePosters/Gone Girl (2014).jpeg",
+      "price": "₱320",
+      "cinema": "Cinema 4",
+      "genre": [
+        "Drama",
+        "Thriller"
+      ],
+      "timeSlot": [
+        "05:00 PM"
+      ]
+    },
+    {
+      "title": "Kill Bill: Vol. 1",
+      "year": "2003",
+      "duration": "1 hour 51 minutes",
+      "synopsis": "A roaring rampage of revenge. An assassin is shot by her ruthless employer, Bill, and other members of their assassination circle – but she lives to plot her vengeance.",
+      "director": "Quentin Tarantino",
+      "poster": "res/MoviePosters/Kill Bill Vol.1(2003).jpg",
+      "price": "₱320",
+      "cinema": "Cinema 2",
+      "genre": [
+        "Action"
+      ],
+      "timeSlot": [
+        "03:50 PM"
+      ]
+    },
+    {
+      "title": "Pearl",
+      "year": "2022",
+      "duration": "1 hour 42 minutes",
+      "synopsis": "An X-traordinary origin story. Trapped on her family’s isolated farm, Pearl must tend to her ailing father under the bitter and overbearing watch of her devout mother. Lusting for a glamorous life like she’s seen in the movies, Pearl’s ambitions, temptations, and repressions collide.",
+      "director": "Ti West",
+      "poster": "res/MoviePosters/Pearl(2022).jpg",
+      "price": "₱250",
+      "cinema": "Cinema 2",
+      "genre": [
+        "Horror",
+        "Thriller"
+      ],
+      "timeSlot": [
+        "12:30 PM"
+      ]
+    },
+    {
+      "title": "Bodies Bodies Bodies",
+      "year": "2022",
+      "duration": "1 hour 35 minutes",
+      "synopsis": "This is not a safe space. In an isolated family mansion, a group of rich 20-somethings decides to play Bodies Bodies Bodies, a game where one of them is secretly a “killer” while the rest tries to “escape”. Things take a turn for the worse when real bodies start turning up, setting off a paranoid and dangerous chain of events.",
+      "director": "Halina Reijn",
+      "poster": "res/MoviePosters/Bodies Bodies Bodies.jpg",
+      "price": "₱270",
+      "cinema": "Cinema 1",
+      "genre": [],
+      "timeSlot": [
+        "03:30 PM"
+      ]
+    },
+    {
+      "title": "Late Night with the Devil",
+      "year": "2024",
+      "duration": "1 hour 35 minutes",
+      "synopsis": "Do not adjust your set. A live broadcast of a late-night talk show in 1977 goes horribly wrong, unleashing evil into the nation’s living rooms.",
+      "director": "Cameron Cairnes, Colin Cairnes",
+      "poster": "res/MoviePosters/Late Night With the Devil(2024).jpg",
+      "price": "₱250",
+      "cinema": "Cinema 3",
+      "genre": [
+        "Horror"
+      ],
+      "timeSlot": [
+        "08:00 AM"
+      ]
+    },
+    {
+      "title": "Baby Driver",
+      "year": "2017",
+      "duration": "1 hour 55 minutes",
+      "synopsis": "All you need is one killer track. After being coerced into working for a crime boss, a young getaway driver finds himself taking part in a heist doomed to fail.",
+      "director": "Edgar Wright",
+      "poster": "res/MoviePosters/Baby Driver(2017).jpg",
+      "price": "₱250",
+      "cinema": "Cinema 3",
+      "genre": [
+        "Action"
+      ],
+      "timeSlot": [
+        "11:00 AM"
+      ]
+    },
+    {
+      "title": "Me Before You",
+      "year": "2016",
+      "duration": "1 hour 50 minutes",
+      "synopsis": "A small-town woman takes a job as a caregiver for a wealthy, paralyzed man, and their unexpected bond changes both of their lives forever.",
+      "director": "Thea Sharrock",
+      "poster": "res/MoviePosters/Me Before You (2016).jpeg",
+      "price": "₱250",
+      "cinema": "Cinema 3",
+      "genre": [
+        "Romance",
+        "Drama"
+      ],
+      "timeSlot": [
+        "02:20 PM"
+      ]
+    },
+    {
+      "title": "500 Days of Summer",
+      "year": "2009",
+      "duration": "1 hour 35 minutes",
+      "synopsis": "After being dumped by the girl he believes to be his soulmate, hopeless romantic Tom Hansen reflects on their relationship to try and figure out where things went wrong and how he can win her back.",
+      "director": "Marc Webb",
+      "poster": "res/MoviePosters/500 Days of Summer(2009).jpg",
+      "price": "₱300",
+      "cinema": "Cinema 4",
+      "genre": [],
+      "timeSlot": [
+        "03:00 PM"
+      ]
+    }
+  ]
+}
